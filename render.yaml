@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: linkedin-client-studio
+    runtime: docker
+    plan: starter
+    healthCheckPath: /health
+    autoDeployTrigger: commit
