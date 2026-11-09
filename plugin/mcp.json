@@ -3,7 +3,7 @@
   "mcpServers": {
     "linkedin-client-studio": {
       "type": "streamable-http",
-      "url": "https://REPLACE-WITH-LIVE-HOST.example/mcp",
+      "url": "https://linkedin-client-studio.onrender.com/mcp",
       "extensions": {
         "com.openai": {
           "auth": {
