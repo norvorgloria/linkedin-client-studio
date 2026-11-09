@@ -1,0 +1,41 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "linkedin-client-studio",
+  "version": "1.0.0",
+  "description": "Evidence-first LinkedIn client workflows with functional MCP tools.",
+  "author": {
+    "name": "Gloria Norvor",
+    "email": "admin@glorianorvor.com"
+  },
+  "homepage": "https://REPLACE-WITH-LIVE-HOST.example",
+  "keywords": [
+    "linkedin",
+    "ghostwriting",
+    "client-management",
+    "content-planning"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "LinkedIn Client Studio",
+        "developerName": "Gloria Norvor",
+        "category": "Productivity",
+        "capabilities": [
+          "Interactive"
+        ],
+        "shortDescription": "LinkedIn client workflows",
+        "longDescription": "Evidence-first LinkedIn onboarding, positioning, profile writing, calendars, draft reviews and metrics. No LinkedIn access or automatic publishing.",
+        "defaultPrompt": [
+          "Build a LinkedIn client brief from these notes.",
+          "Plan a LinkedIn content calendar for my client.",
+          "Review this LinkedIn post for claims to verify."
+        ],
+        "logo": "./assets/icon.png",
+        "websiteURL": "https://REPLACE-WITH-LIVE-HOST.example",
+        "supportURL": "https://REPLACE-WITH-LIVE-HOST.example/support",
+        "privacyPolicyURL": "https://REPLACE-WITH-LIVE-HOST.example/privacy",
+        "termsOfServiceURL": "https://REPLACE-WITH-LIVE-HOST.example/terms"
+      }
+    }
+  }
+}
