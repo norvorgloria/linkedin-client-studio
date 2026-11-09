@@ -6,7 +6,7 @@
     "name": "Gloria Norvor",
     "email": "admin@glorianorvor.com"
   },
-  "homepage": "https://REPLACE-WITH-LIVE-HOST.example",
+  "homepage": "https://linkedin-client-studio.onrender.com",
   "skills": "./skills",
   "interface": {
     "displayName": "LinkedIn Client Studio",
@@ -22,9 +22,9 @@
       "Review this LinkedIn post for claims to verify."
     ],
     "logo": "./assets/icon.png",
-    "websiteURL": "https://REPLACE-WITH-LIVE-HOST.example",
-    "supportURL": "https://REPLACE-WITH-LIVE-HOST.example/support",
-    "privacyPolicyURL": "https://REPLACE-WITH-LIVE-HOST.example/privacy",
-    "termsOfServiceURL": "https://REPLACE-WITH-LIVE-HOST.example/terms"
+    "websiteURL": "https://linkedin-client-studio.onrender.com",
+    "supportURL": "https://linkedin-client-studio.onrender.com/support",
+    "privacyPolicyURL": "https://linkedin-client-studio.onrender.com/privacy",
+    "termsOfServiceURL": "https://linkedin-client-studio.onrender.com/terms"
   }
 }
