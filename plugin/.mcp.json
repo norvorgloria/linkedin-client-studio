@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "linkedin-client-studio": {
+      "url": "https://REPLACE-WITH-LIVE-HOST.example/mcp"
+    }
+  }
+}
